@@ -1,7 +1,7 @@
 # Word2Vec-zh-TW
 
 ## Training process
-![flow chart](https://github.com/Jay113910/Word2Vec-zh-TW/blob/main/imgs/word2vec-flowchart.png)
+![flow chart](https://github.com/Jay113910/Word2Vec-zh-TW/blob/main/imgs/word2vec-flowchart.jpg)
 
 ## How to train a Word2Vec
 
